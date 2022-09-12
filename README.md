@@ -20,4 +20,4 @@ In this challenge, we are going to integrate with the GitHub API to show a user'
 
 Devpass is a diverse community of high-potential software developers accelerating their careers through real-world product development and mentorship from tech leaders of the best tech companies.
 
-Interested? Access www.devpass.com.br for more information!
+Interested? Access www.devpass.com.br for more info!
